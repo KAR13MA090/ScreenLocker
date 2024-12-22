@@ -10,7 +10,7 @@ We are not responsible if you use this software for malicious purposes, thank yo
 ████╗  ██║╚══██╔══╝╚══██╔══╝╚══██╔══╝ 
 ██╔██╗ ██║   ██║      ██║      ██║     
 ██║╚██╗██║   ██║      ██║      ██║  
-██║ ╚████║   ██║      ██║      ██║     
-╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝   
+██║ ╚████║   ██║      ██║      ██║     [KAR13MA09]
+╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝     
 ```  
 [Info](https://github.com/KAR13MA090/ScreenLocker/)
